@@ -1,0 +1,5 @@
+git clone https://github.com/umass-data-science/materials-sp21
+git add readme 
+git commit -m "XXX"
+git push
+
