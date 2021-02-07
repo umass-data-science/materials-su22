@@ -1,0 +1,15 @@
+{
+  "name": "Homework 09: Linear Regression",
+  "endpoint": "umass/stat190F/sp20/hw09",
+  "src": [
+    "hw09.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
